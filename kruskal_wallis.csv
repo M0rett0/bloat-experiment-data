@@ -1,0 +1,10 @@
+tarefa,metrica,H,p,significativo
+T1,RAM,79.121,0.0,True
+T1,CPU,79.122,0.0,True
+T1,Latencia,79.121,0.0,True
+T2,RAM,79.121,0.0,True
+T2,CPU,79.122,0.0,True
+T2,Latencia,79.121,0.0,True
+T3,RAM,79.121,0.0,True
+T3,CPU,79.121,0.0,True
+T3,Latencia,79.121,0.0,True
